@@ -1,0 +1,18 @@
+body {
+    font-family: Georgia;
+}
+
+#title {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#date {
+    font-style: italic;
+}
+
+.navbar-btn {
+    font-size: 90%;
+    margin-top: 0%;
+}/*Anpassung des SignIn-Buttons*/
+
